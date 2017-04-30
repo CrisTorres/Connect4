@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/AndroidStudioProjects/Connect4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="348f626306f2f792c954ba25233498b87d5f12f2">
+        <dex dex="/Users/admin/AndroidStudioProjects/Connect4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e09cbec52b3a88666a92c00c5417de0b7b4e337b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/admin/AndroidStudioProjects/Connect4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2916f05509b27bdd4a9011448d1befa7add8e924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/AndroidStudioProjects/Connect4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/admin/AndroidStudioProjects/Connect4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef4dcfb6f0b5905ab80cf1a9d85589a6c09ff52c/classes.dex" />
+    </item>
+
+</items>
